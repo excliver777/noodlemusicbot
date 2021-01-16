@@ -1,8 +1,8 @@
 
 ### 2021.1.14 
 음악봇 완성됨 
--버그수정
--완료 
+버그수정
+완료 
 ```js
 module.exports = {
     discord: {
@@ -11,5 +11,5 @@ module.exports = {
         activity: '여기에 상테메시지',
     },
 ```
--config 를 이런식으로 만듬
--enjoy!
+config 를 이런식으로 만듬
+enjoy!
