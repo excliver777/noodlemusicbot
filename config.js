@@ -10,7 +10,7 @@ module.exports = {
     discord: {
         token: '',
         prefix: '.',
-        activity: 'ACTIVITY',
+        activity: '.help 는 사드세요 제발',
     },
 
     filters: ['8D', 'gate', 'haas', 'phaser', 'treble', 'tremolo', 'vibrato', 'reverse', 'karaoke', 'flanger', 'mcompand', 'pulsator', 'subboost', 'bassboost', 'vaporwave', 'nightcore', 'normalizer', 'surrounding'],
